@@ -5,7 +5,9 @@ Protótipo - Painel de Triagem Inteligente de Denúncias Eleitorais
 
 📋 Visão Geral
 
-O Painel de Triagem Inteligente de Denúncias Eleitorais do PARDAL é uma ferramenta avançada desenvolvida para otimizar o processo de análise e priorização de denúncias recebidas através do aplicativo PARDAL da Justiça Eleitoral. Utilizando inteligência artificial, o sistema classifica automaticamente as denúncias por nível de prioridade, identifica duplicidades e destaca evidências relevantes, permitindo que os servidores da Justiça Eleitoral e membros do Ministério Público possam focar seus esforços nos casos mais críticos.
+O Painel de Triagem Inteligente de Denúncias Eleitorais será uma ferramenta avançada desenvolvida para otimizar o processo de análise e priorização de denúncias recebidas através do aplicativo PARDAL da Justiça Eleitoral. Utilizando inteligência artificial, o sistema classifica automaticamente as denúncias por nível de prioridade, identifica duplicidades e destaca evidências relevantes, permitindo que os servidores da Justiça Eleitoral possam focar seus esforços nos casos mais críticos.
+
+
 
 
 🎯 Objetivos
@@ -25,12 +27,16 @@ O painel foi desenvolvido com os seguintes objetivos:
 6.Criar um fluxo de trabalho intuitivo para os operadores do sistema
 
 
+
 🚀 Funcionalidades Principais
+
 
 
 Categorização Inteligente
 
+
 O sistema classifica automaticamente as denúncias em cinco categorias:
+
 
 •Alta Prioridade: Casos graves que requerem atenção imediata
 
@@ -45,7 +51,9 @@ O sistema classifica automaticamente as denúncias em cinco categorias:
 
 Análise Automatizada de Evidências
 
+
 A inteligência artificial analisa os anexos enviados pelos denunciantes:
+
 
 •Extração de informações de vídeos, áudios e imagens
 
@@ -56,9 +64,12 @@ A inteligência artificial analisa os anexos enviados pelos denunciantes:
 •Análise de documentos anexados (PDFs, planilhas, etc.)
 
 
+
 Interface Intuitiva
 
+
 O painel apresenta uma interface clara e objetiva:
+
 
 •Visão geral das filas de denúncias por categoria
 
@@ -70,7 +81,10 @@ O painel apresenta uma interface clara e objetiva:
 
 
 
+
 💻 Tecnologias Utilizadas
+
+
 
 •Frontend: HTML5, CSS3, JavaScript
 
@@ -85,7 +99,10 @@ O painel apresenta uma interface clara e objetiva:
 
 📊 Fluxo de Trabalho
 
+
 O painel foi projetado para otimizar o seguinte fluxo de trabalho:
+
+
 
 1.Recebimento: Denúncias são recebidas do aplicativo PARDAL
 
@@ -98,9 +115,12 @@ O painel foi projetado para otimizar o seguinte fluxo de trabalho:
 5.Feedback: Operadores fornecem feedback para melhorar a precisão da IA
 
 
+
 🔒 Segurança e Privacidade
 
+
 O sistema foi projetado considerando:
+
 
 •Proteção de dados pessoais dos denunciantes
 
@@ -111,7 +131,9 @@ O sistema foi projetado considerando:
 •Conformidade com a LGPD e regulamentações eleitorais
 
 
+
 📈 Benefícios Esperados
+
 
 •Redução de 70% no tempo de triagem inicial
 
@@ -123,7 +145,9 @@ O sistema foi projetado considerando:
 
 
 
+
 🔄 Integração com Outros Sistemas
+
 
 O painel foi projetado para integração com:
 
@@ -138,9 +162,14 @@ O painel foi projetado para integração com:
 
 📱 Versão Mobile
 
+
 Uma versão mobile responsiva está disponível para permitir o acesso ao painel em dispositivos móveis, facilitando o trabalho de campo durante o período eleitoral.
 
+
+
 📝 Próximos Passos
+
+
 
 •Implementação de algoritmos de aprendizado de máquina mais avançados
 
